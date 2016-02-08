@@ -1,2 +1,2 @@
 # Nanodegree-android
-projects of my nanodegree of android development
+android projects of my nanodegree
