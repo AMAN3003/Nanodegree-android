@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="PersButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:width">250dp</item>
+        <item name="android:height">50dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+    <style name="PersButton.Orange">
+        <item name="android:background">@color/buttonBackground</item>
+        <item name="android:textColor">@color/buttonText</item>
+    </style>
+    <style name="PersButton.Red">
+        <item name="android:background">@color/buttonRedBackground</item>
+        <item name="android:textColor">@color/buttonRedText</item>
+    </style>
+
+</resources>
